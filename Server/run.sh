@@ -1,0 +1,1 @@
+python3 network_server.py --host 192.168.1.12 --port 5005
